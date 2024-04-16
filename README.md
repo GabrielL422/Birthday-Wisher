@@ -14,8 +14,6 @@ To get It running locally:
 
 ## Usage:
 
-or Head to [https://birthday-wisher.netlify.app/generate]()
-
 Enter the `name , day , month of birthday`
 
 ![ScreenShot of Form](screenshots/generate.png)
